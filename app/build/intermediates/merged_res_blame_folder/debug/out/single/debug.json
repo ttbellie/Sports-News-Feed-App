@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/drawable_ic_arrow_back.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/layout_fragment_detail.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/layout_item_related_story.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/layout/item_related_story.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/drawable_sports_5.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/drawable/sports_5.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/drawable_ic_bookmark_border.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/drawable/ic_bookmark_border.xml"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/drawable_ic_bookmark_filled.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/drawable/ic_bookmark_filled.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/drawable_sports_2.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/drawable/sports_2.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/layout_fragment_bookmarks.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/layout/fragment_bookmarks.xml"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/layout_fragment_home.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/layout_item_featured_match.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/layout/item_featured_match.xml"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/layout_item_news.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/layout/item_news.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/drawable_ic_home.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/drawable_sports_4.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/drawable/sports_4.xml"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/drawable_sports_3.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/drawable/sports_3.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/drawable_sports_1.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/drawable/sports_1.xml"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-merged_res-38:/drawable_sports_6.xml.flat",
+        "source": "/Users/tien/.gradle/daemon/8.2/com.example.sportsnewsfeed.app-main-40:/drawable/sports_6.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.sportsnewsfeed.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
